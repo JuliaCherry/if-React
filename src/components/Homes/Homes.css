@@ -1,0 +1,12 @@
+.homes {
+  background-color: var(--bg-color-main);
+}
+
+.homes__container-item {
+  display: flex;
+  padding-top: 12rem;
+  padding-bottom: 12rem;
+  align-items: center;
+  flex-direction: column;
+  gap: 10.6rem;
+}
