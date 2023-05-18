@@ -1,0 +1,23 @@
+.homes__container-content {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+
+.homes__container-image {
+  height: 43.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+.homes__container-text--hotel {
+  color: var(--accent-blue);
+}
+
+.homes__container-text--city {
+  color: var(--stroke-color-additional);
+}
